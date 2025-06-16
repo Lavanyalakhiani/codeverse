@@ -1,6 +1,6 @@
-# Codehive 🌐💻  
+# CodeVerse 🌐💻  
 
-Codehive is a web-based platform designed to provide a **collaborative coding environment** integrated with **communication services** and an **AI-powered code assistant**. It aims to empower developers and teams with seamless collaboration, code sharing, and debugging tools.  
+CodeVerse is a web-based platform designed to provide a **collaborative coding environment** integrated with **communication services** and an **AI-powered code assistant**. It aims to empower developers and teams with seamless collaboration, code sharing, and debugging tools.  
 
 ## 🌟 **Key Features**  
 
@@ -20,8 +20,8 @@ Codehive is a web-based platform designed to provide a **collaborative coding en
 - Over **20+ themes** available for personalizing the code editor.  
 - Export code snippets as **PNG** images or files with respective language extensions.  
 
-### 🤖 **Codehive Genie** 🧞  
-- AI-powered coding assistant integrated into Codehive.  
+### 🤖 **CodeVerse Genie** 🧞  
+- AI-powered coding assistant integrated into CodeVerse.  
 - Provides assistance in:  
   - Generating code.  
   - Debugging and optimizing code.  
@@ -38,7 +38,7 @@ Codehive is a web-based platform designed to provide a **collaborative coding en
 ### 🌟 Collaborative Editor  
 ![Collaborative Editor](https://github.com/codehiveofficial/codehive/blob/main/public/img2.png?raw=true)  
 
-### 🌟 Codehive Genie in Action  
+### 🌟 CodeVerse Genie in Action  
 ![Codehive Genie](https://github.com/codehiveofficial/codehive/blob/main/public/img3.png?raw=true)
 
 ### 🌟 Video Calling and Chat  
@@ -58,59 +58,13 @@ Codehive is a web-based platform designed to provide a **collaborative coding en
 - **HTML2Canvas** for snippet generation  
 
 ### Backend  
-- **Codehive Genie** ([Repo](https://github.com/codehiveofficial/codehive-genie)):  
+- **CodeVerse Genie** ([Repo](https://github.com/codehiveofficial/codehive-genie)):  
   - Python-based **Flask API** utilizing **Llama 3.1** for AI-driven coding assistance.  
   - Integrated with **Groq AI Cloud** for LLM parameterization.  
 
-- **Codehive Server** ([Repo](https://github.com/codehiveofficial/codehive-server)):  
+- **CodeVerse Server** ([Repo](https://github.com/codehiveofficial/codehive-server)):  
   - Built using **Node.js** and **Express**.  
-  - Handles **video calling** and **chat streaming** using **Socket.IO**.  
-
-
-## 🚀 **Installation Guide**  
-
-### 1. **Clone the Repo** 🔗  
-```bash  
-git clone https://github.com/codehiveofficial/codehive.git  
-cd codehive  
-```  
-
-### 2. **Install Dependencies** 📦  
-```bash  
-npm install --force  
-```  
-> **Note**: The `--force` flag is used because some packages do not yet support the newer React version. Don't worry, this won't cause any issues.  
-
-### 3. **Set Environment Variables** 🔧  
-Coordinate with the following repositories to set up the required environment variables:  
-- [Codehive Genie](https://github.com/codehiveofficial/codehive-genie)  
-- [Codehive Server](https://github.com/codehiveofficial/codehive-server)  
-
-Create a `.env` file in the root directory and configure the following variables:  
-```env  
-NEXT_PUBLIC_AUTH_SECRET= 
-NEXT_PUBLIC_CODEHIVE_GENIE_API_URL= 
-NEXT_PUBLIC_SOCKET_BACKEND_URL= 
-NEXT_PUBLIC_FRONTEND_URL= 
-NEXT_PUBLIC_CONTACT_US_API= 
-NEXT_PUBLIC_AUTH_MESSAGE=  
-```  
-
-### 4. **Run the Development Server** ▶️  
-```bash  
-npm run dev  
-```  
-Your server will be running on [http://localhost:3000](http://localhost:3000).  
-
-
-## 🌍 **Deployment**  
-- 🚀 We recommend deploying the **Next.js** app on **Vercel** for its seamless Next.js template support.  
-- 🛠️ For other repositories, follow their respective README instructions.  
-
-
-## 📜 **License**  
-Codehive is licensed under the **MIT License**.  
-[View License](https://github.com/codehiveofficial/codehive/blob/main/LICENSE)  
+  - Handles **video calling** and **chat streaming** using **Socket.IO**.    
 
 
 ## ❓ **Have Questions?**  
@@ -118,4 +72,4 @@ For any queries, feel free to:
 - 📬 Contact us via the **Contact Us** section on the website.  
 - 🚀 Raise an issue in the repository.  
 
-Enjoy a streamlined coding experience with **Codehive**! 🖥️✨  
+Enjoy a streamlined coding experience with **CodeVerse**! 🖥️✨  
