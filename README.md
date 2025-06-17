@@ -60,11 +60,11 @@ CodeVerse is a web-based platform designed to provide a **collaborative coding e
 - **HTML2Canvas** for snippet generation  
 
 ### Backend  
-- **CodeVerse Genie** ([Repo](https://github.com/codehiveofficial/codehive-genie)):  
+- **CodeVerse Genie** ([Repo](https://github.com/Lavanyalakhiani/codeverse-genie)):  
   - Python-based **Flask API** utilizing **Llama 3.1** for AI-driven coding assistance.  
   - Integrated with **Groq AI Cloud** for LLM parameterization.  
 
-- **CodeVerse Server** ([Repo](https://github.com/codehiveofficial/codehive-server)):  
+- **CodeVerse Server** ([Repo](https://github.com/Lavanyalakhiani/converse-backend)):  
   - Built using **Node.js** and **Express**.  
   - Handles **video calling** and **chat streaming** using **Socket.IO**.    
 
