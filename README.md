@@ -44,6 +44,8 @@ CodeVerse is a web-based platform designed to provide a **collaborative coding e
 
 ### 🌟 Video Calling and Chat  
 ![Video Calling](https://github.com/codehiveofficial/codehive/blob/main/public/Screenshot%202024-12-01%20015641.png)  
+![image](https://github.com/user-attachments/assets/e6b139ff-fb34-4d96-a448-da861746548d)
+
 
 ### 🌟 Generate Beautiful Code Snippets
 ![Code Snippets](https://github.com/codehiveofficial/codehive/blob/main/public/codehive_snippet%20(4).png)  
