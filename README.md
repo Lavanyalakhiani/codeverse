@@ -68,10 +68,4 @@ CodeVerse is a web-based platform designed to provide a **collaborative coding e
   - Built using **Node.js** and **Express**.  
   - Handles **video calling** and **chat streaming** using **Socket.IO**.    
 
-
-## ❓ **Have Questions?**  
-For any queries, feel free to:  
-- 📬 Contact us via the **Contact Us** section on the website.  
-- 🚀 Raise an issue in the repository.  
-
 Enjoy a streamlined coding experience with **CodeVerse**! 🖥️✨  
